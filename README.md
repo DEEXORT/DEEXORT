@@ -1,6 +1,17 @@
 # 💫 About Me:
-An experienced engineer with seven years of experience in automation and project management in the design sector. In recent years, I have focused on developing enterprise software in Java/Spring.<br><br>Key Achievements:<br><br>Commercial Development: Created the BitrixSynchronizer synchronization system (Java/Spring), which automated project management between IPS and Bitrix24, reducing management time by 50%.<br><br>Architectural Design: As part of a personal project with ReactFlow, I implemented a microservice system using the Polyglot Persistence strategy (PostgreSQL + Cassandra) and asynchronous messaging via Apache Kafka.<br><br>Commercial Project:<br>Project Name: "BitrixSynchronizer"<br>Stack: Java, Spring (Web, MVC, Security), Thymeleaf.<br>Description: Developed an application for synchronizing projects between two large systems: IPS and Bitrix24, using RESTful interaction.<br>Implemented automatic project creation in Bitrix with subtasks, assignees, and deadlines from projects created in IPS, and automatic task completion based on assignees' actual workload.<br>Link: https://github.com/DEEXORT/BitrixSynchronizer<br><br>Personal Project:<br>Project Name: "ReactFlow"<br>Architecture: REST API, Microservices.<br>Stack: Java, Spring Security, Hibernate, PostgreSQL (Relational), Cassandra (NoSQL), Kafka, Redis, Docker, Liquibase, OAuth2 (Keycloak, Google, Github)<br>Description: Developed a REST application with a microservice architecture for content publishing and discussion. Integrated Apache Kafka for asynchronous event transmission between the publishing and discussion modules, ensuring system fault tolerance.<br>Implemented the Polyglot Persistence strategy: used PostgreSQL for storing transactional data and Apache Cassandra for high-load reaction recording.<br>Used Redis for data caching.<br>Link: https://github.com/DEEXORT/ReactFlowProject
+An experienced engineer with seven years of experience in automation and project management in the design sector. In recent years, I have focused on developing enterprise software in Java/Spring.<br><br>
 
+# 💡 About my approach:
+* Write clean and maintainable code.
+* Design a solution from concept to production with a focus on reliability.
+* Constantly learning: currently delving deeper into Kubernetes and CI/CD (Jenkins).
+
+# 📌 Ключевые проекты
+|Проект |	Описание | Стек|
+|---|---|---|
+|**[BitrixSynchronizer](https://github.com/DEEXORT/BitrixSynchronizer)**|	Коммерческое приложение для синхронизации проектов между IPS и Битрикс24. Автоматизирует управление задачами и упрощает планирование.	|Java · Spring · Thymeleaf · Redis · Prometheus|
+|**[ReactFlowProject](https://github.com/DEEXORT/ReactFlowProject)**|	Микросервисное приложение для публикации контента и обсуждений. Реализована Polyglot Persistence и асинхронная передача событий через Kafka.	|Spring Boot · Kafka · PostgreSQL · Cassandra · Docker · OAuth2|
+|**[ReviewPlatform](https://github.com/DEEXORT/ReviewPlatform)**|Интерактивная платформа для оценки продуктов с системой рейтингов и валидацией отзывов.	|Java 21 · Spring Boot 3 · PostgreSQL · Thymeleaf|
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:d.gimaldinov96@gmail.com) 
