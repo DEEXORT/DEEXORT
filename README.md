@@ -6,12 +6,12 @@ An experienced engineer with seven years of experience in automation and project
 * Design a solution from concept to production with a focus on reliability.
 * Constantly learning: currently delving deeper into Kubernetes and CI/CD (Jenkins).
 
-# 📌 Ключевые проекты
-|Проект |	Описание | Стек|
+# 📌 Key projects
+|Project |	Description | Stack|
 |---|---|---|
-|**[BitrixSynchronizer](https://github.com/DEEXORT/BitrixSynchronizer)**|	Коммерческое приложение для синхронизации проектов между IPS и Битрикс24. Автоматизирует управление задачами и упрощает планирование.	|Java · Spring · Thymeleaf · Redis · Prometheus|
-|**[ReactFlowProject](https://github.com/DEEXORT/ReactFlowProject)**|	Микросервисное приложение для публикации контента и обсуждений. Реализована Polyglot Persistence и асинхронная передача событий через Kafka.	|Spring Boot · Kafka · PostgreSQL · Cassandra · Docker · OAuth2|
-|**[ReviewPlatform](https://github.com/DEEXORT/ReviewPlatform)**|Интерактивная платформа для оценки продуктов с системой рейтингов и валидацией отзывов.	|Java 21 · Spring Boot 3 · PostgreSQL · Thymeleaf|
+|**[BitrixSynchronizer](https://github.com/DEEXORT/BitrixSynchronizer)**|	A commercial application for synchronizing projects between IPS and Bitrix24. It automates task management and simplifies planning.	|Java · Spring · Thymeleaf · Redis · Prometheus|
+|**[ReactFlowProject](https://github.com/DEEXORT/ReactFlowProject)**|	A microservice application for content publishing and discussions. Polyglot Persistence and asynchronous event delivery via Kafka are implemented.	|Spring Boot · Kafka · PostgreSQL · Cassandra · Docker · OAuth2|
+|**[ReviewPlatform](https://github.com/DEEXORT/ReviewPlatform)**|An interactive product evaluation platform with a rating system and review validation.	|Java 21 · Spring Boot 3 · PostgreSQL · Thymeleaf|
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:d.gimaldinov96@gmail.com) 
